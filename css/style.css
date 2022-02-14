@@ -191,6 +191,23 @@ footer nav{
   position: relative;
   white-space: nowrap;
 }
+.map-conteiner{
+  width: 800px;
+  height: 600px;
+  margin: auto;
+}
+
+.map-conteiner iframe{
+  width: 800px;
+  height: 580px;
+}
+
+
+
+
+
+
+
 
 
 
