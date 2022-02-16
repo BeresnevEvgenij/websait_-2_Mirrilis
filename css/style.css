@@ -259,6 +259,10 @@ footer nav{
   .blog-container{
     width: 28rem;
   }
+  .map-conteiner iframe{
+    width: 370px;
+    height: 500px;
+  }
 }
 @media screen and (max-width: 420px){
   .advantages{
